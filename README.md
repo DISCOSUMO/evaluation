@@ -7,3 +7,7 @@ Evaluation and agreement scripts for the DISCOSUMO project. Each evaluation scri
 - The script `agreement_fleisskappa.py` does not evaluate but only implements Fleiss' Kappa, and takes only the manual annotations as input.
 
 The `postids_per_thread.queries.txt`, `106long20threads.postfeats.norm.out` and `106long20threads.threadfeats.out` are needed for some of the scripts to know the post ids per thread or number of posts per thread.
+
+### License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (GNU-GPL v3.0).
